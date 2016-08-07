@@ -1,11 +1,12 @@
 # Ember-storerent
 
-* [Random Quote Machine](https://ember-storerent.herokuapp.com/)
-  - HTML/Jade
+* [ViewSite](https://ember-storerent.herokuapp.com/)
+  - HTML5
   - CSS
-  - JavaScript/CoffeeScript
+  - JavaScript
   - jQuery
   - Bootstrap
+  - EmberJS
 ![Screenshot](https://github.com/devopcoders/codecamp/blob/master/quotes.png "Screenshot")
 
 
