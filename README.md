@@ -1,5 +1,14 @@
 # Ember-storerent
 
+* [Random Quote Machine](https://ember-storerent.herokuapp.com/)
+  - HTML/Jade
+  - CSS
+  - JavaScript/CoffeeScript
+  - jQuery
+  - Bootstrap
+![Screenshot](https://github.com/devopcoders/codecamp/blob/master/quotes.png "Screenshot")
+
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
