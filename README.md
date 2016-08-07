@@ -7,7 +7,7 @@
   - jQuery
   - Bootstrap
   - EmberJS
-![Screenshot](https://github.com/devopcoders/codecamp/blob/master/quotes.png "Screenshot")
+![Screenshot](https://github.com/devopcoders/ember-github-storerental/blob/master/screenshot532.jpg "Screenshot")
 
 
 This README outlines the details of collaborating on this Ember application.
